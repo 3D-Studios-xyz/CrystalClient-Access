@@ -1,4 +1,5 @@
 {
   "enabled": true,
-  "password": "Example123"
+  "salt": "apIB/G9qMpzVL6XQINhEAA==",
+  "passwordHash": "7klRstIYNTcJJQES4QNUKvcyPzUI7yvPSbCxlk24Ru0="
 }
