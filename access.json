@@ -1,5 +1,8 @@
 {
   "enabled": true,
-  "salt": "apIB/G9qMpzVL6XQINhEAA==",
-  "passwordHash": "7klRstIYNTcJJQES4QNUKvcyPzUI7yvPSbCxlk24Ru0="
+  "whitelist": {
+    "YOUR-UUID-HERE": true,
+    "FRIEND-UUID-HERE": true,
+    "OTHER-UUID-HERE": false
+  }
 }
