@@ -1,8 +1,7 @@
 {
   "enabled": true,
   "whitelist": {
-    "YOUR-UUID-HERE": true,
-    "FRIEND-UUID-HERE": true,
-    "OTHER-UUID-HERE": false
+    "25d1fcf2-fde4-402d-a8a1-b967d2006b69": true,
+    "72b94e0e-5111-4acd-b364-81c71fe37957": true
   }
 }
